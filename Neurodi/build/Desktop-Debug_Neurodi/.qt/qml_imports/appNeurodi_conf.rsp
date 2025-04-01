@@ -1,0 +1,14 @@
+-rootPath
+/home/oz/Neurodi/Neurodi
+-cmake-output
+-output-file
+/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi/.qt/qml_imports/appNeurodi_conf.cmake
+-importPath
+/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi/Neurodi
+-importPath
+/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi/.qt/rcc/qmake_Neurodi.qrc
+/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi/.qt/rcc/appNeurodi_raw_qml_0.qrc

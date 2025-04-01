@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f0be5e596a7a89e46c8a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Neurodi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-7ba2f62f5e6f4aa52466.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-e4293d8581539b53b8f8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-b84a81a1fab3ef8e109a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-fd43396255660dc095a2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-96a6af79467f67c0828b.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi-Debug-74b660e0f418bc462886.json",
+					"name" : "appNeurodi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_autogen-Debug-52954721043a06700052.json",
+					"name" : "appNeurodi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_autogen_timestamp_deps-Debug-6b92f7797ffc8a72a090.json",
+					"name" : "appNeurodi_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_copy_qml-Debug-be647e4a6d54531d368a.json",
+					"name" : "appNeurodi_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_copy_res-Debug-880783ad0169b9ad77eb.json",
+					"name" : "appNeurodi_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_qmlimportscan-Debug-a12b84f1f665339d5b58.json",
+					"name" : "appNeurodi_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_qmllint-Debug-2e61d799e22a535f5652.json",
+					"name" : "appNeurodi_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_qmllint_json-Debug-bd2b55d60e8ce8337422.json",
+					"name" : "appNeurodi_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_qmllint_module-Debug-636244aeb788e6553c9c.json",
+					"name" : "appNeurodi_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNeurodi_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNeurodi_qmltyperegistration-Debug-90d1f92bfd9b5dfda8eb.json",
+					"name" : "appNeurodi_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appNeurodi_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appNeurodi_aotstats_target-Debug-1262975faf114bb0cddd.json",
+					"name" : "module_appNeurodi_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oz/Neurodi/Neurodi/build/Desktop-Debug_Neurodi",
+		"source" : "/home/oz/Neurodi/Neurodi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
