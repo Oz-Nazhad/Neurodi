@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Neurodi">
-    <file alias="qmldir">/home/oz/Projekte/Neurodi/Neurodi/build/Desktop-Debug/Neurodi/qmldir</file>
-  </qresource>
-</RCC>
-

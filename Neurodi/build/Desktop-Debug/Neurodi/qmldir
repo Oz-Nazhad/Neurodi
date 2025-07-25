@@ -1,5 +1,0 @@
-module Neurodi
-typeinfo appNeurodi.qmltypes
-prefer :/qt/qml/Neurodi/
-Main 1.0 Main.qml
-
