@@ -1,5 +1,0 @@
-OpenWindow();
-LoadGUI();
-GetTime();
-LoadUserTasks();
-
